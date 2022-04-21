@@ -13,9 +13,9 @@ Favor enviar o link do github.
 
 
 ## Autores
-[Ana Caroline](https://github.com/)
-[Andréa Monteiro](https://github.com/andreasmonteiro)
-[Gabryella Waleska](https://github.com/)
-[Nádya Leôncio](https://github.com/nadyabpm)
-[Rayssa Alcântara](https://github.com/rayssawho)
+* [Ana Caroline](https://github.com/)
+* [Andréa Monteiro](https://github.com/andreasmonteiro)
+* [Gabryella Waleska](https://github.com/)
+* [Nádya Leôncio](https://github.com/nadyabpm)
+* [Rayssa Alcântara](https://github.com/rayssawho)
 
